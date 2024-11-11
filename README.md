@@ -5,8 +5,8 @@ Temas:
 
 # QuestionsJuizOnline
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1
+**Conteúdo da Disciplina**: Grafos
 
 ## Alunos
 |Matrícula | Aluno |
@@ -18,14 +18,10 @@ Temas:
 Resolvemos 4 questões de juiz online no site LeetCode . 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: C++
-Necessita um compilador da linguagem C++
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Vídeo 
+
