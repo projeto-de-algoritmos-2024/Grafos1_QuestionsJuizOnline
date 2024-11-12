@@ -11,10 +11,10 @@ Temas:
 |Matrícula | Aluno |
 | -- | -- |
 | 20/0038028  |  Guilherme Evangelista Ferreira dos Santos |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0147816  |  Vinicius Edwardo Pereira Oliveira |
 
 ## Sobre 
-Resolvemos 4 questões de juiz online no site [LeetCode](https://leetcode.com/) . 
+Resolvemos 5 questões de juiz online no site [LeetCode](https://leetcode.com/) . 
 
 1.[133](https://leetcode.com/problems/clone-graph/description/) Clone Graph (Medium)
 
