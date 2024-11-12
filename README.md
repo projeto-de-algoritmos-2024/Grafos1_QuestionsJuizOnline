@@ -14,13 +14,29 @@ Temas:
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Resolvemos 4 questões de juiz online no site LeetCode . 
+Resolvemos 4 questões de juiz online no site [LeetCode](https://leetcode.com/) . 
+
+1.[133](https://leetcode.com/problems/clone-graph/description/) Clone Graph (Medium)
+
+2.[785](https://leetcode.com/problems/is-graph-bipartite/description/) Is Graph Bipartite (Medium)
+
+3.[997](https://leetcode.com/problems/find-the-town-judge/description/) Find the town Judge (Easy)
 
 ## Screenshots
 
+- 133
+![image](./images/clonarGrafo2.png)
+
+
+- 785
+![image](./images/bipartido.png)
+
+-997
+![image](./images/juiz.png)
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Caso queira rodar é só colocar o código no leetcode ou botar casos de teste na main do arquivo.
 
 ## Vídeo 
 
