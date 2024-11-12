@@ -50,3 +50,4 @@ Caso queira rodar é só colocar o código no leetcode ou botar casos de teste n
 
 ## Vídeo 
 
+[Link para o video das questões 133 , 785 e 997](https://youtu.be/gWTfvAHUpj0)
