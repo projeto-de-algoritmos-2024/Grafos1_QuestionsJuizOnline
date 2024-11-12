@@ -22,6 +22,10 @@ Resolvemos 4 questões de juiz online no site [LeetCode](https://leetcode.com/) 
 
 3.[997](https://leetcode.com/problems/find-the-town-judge/description/) Find the town Judge (Easy)
 
+4.[1971](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) Find if Path Exists in Graph (Easy)
+
+5.[841](https://leetcode.com/problems/keys-and-rooms/description/) Keys and Rooms (Medium)
+
 ## Screenshots
 
 - 133
@@ -33,6 +37,12 @@ Resolvemos 4 questões de juiz online no site [LeetCode](https://leetcode.com/) 
 
 -997
 ![image](./images/juiz.png)
+
+-1971
+![image](./images/caminhoexiste.png)
+
+-841
+![image](./images/chavesesalas.png)
 
 
 ## Uso 
